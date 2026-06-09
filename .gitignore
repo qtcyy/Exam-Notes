@@ -1,0 +1,34 @@
+# macOS
+.DS_Store
+.AppleDouble
+.LSOverride
+Icon
+._*
+.DocumentRevisions-V100
+.fseventsd
+.Spotlight-V100
+.TemporaryItems
+.Trashes
+.VolumeIcon.icns
+.com.apple.timemachine.donotpresent
+
+# Obsidian — 个人工作区状态（变化频繁，无需版本追踪）
+.obsidian/workspace.json
+.obsidian/workspace-mobile.json
+
+# Obsidian — 缓存与临时文件
+.obsidian/cache/
+.obsidian/.obsidian-git-data/
+
+# Obsidian — 插件（如希望版本锁定插件，可注释此行）
+.obsidian/plugins/
+
+# Obsidian — 回收站
+.trash/
+
+# 编辑器
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
