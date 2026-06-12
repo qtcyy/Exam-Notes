@@ -32,3 +32,11 @@ Icon
 *.swp
 *.swo
 *~
+
+# 临时文件（语音转文字等）
+tmp/
+*.mp3
+
+# Python
+__pycache__/
+*.pyc
